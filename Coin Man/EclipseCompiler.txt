@@ -1,0 +1,246 @@
+4 Dec 2017 23:31:02 GMT: Log 'EclipseCompiler.txt' opened: 4 Dec 2017 23:31:02 GMT with name C:\Users\Usman\Downloads\Coin Man\Coin Man\EclipseCompiler.txt
+28 Feb 2018 1:22:43 GMT: Log 'EclipseCompiler.txt' opened: 28 Feb 2018 1:22:43 GMT with name C:\Users\Usman\Downloads\Coin Man\Coin Man\EclipseCompiler.txt
+28 Feb 2018 1:23:38 GMT: diagnostics = javax.tools.DiagnosticCollector@3fbc65d2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11ce4ec5
+fileObjects = [C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java, C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java, C:\Users\007\Downloads\gameproject - Copy\Launcher1.java]
+28 Feb 2018 1:23:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@183e0eea' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\007\Downloads\gameproject - Copy;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-backend-lwjgl-natives.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-backend-lwjgl.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-natives.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-sources.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx.jar;C:\Users\Usman\Downloads\drjava-beta-20160913-225446.exe]
+28 Feb 2018 1:23:38 GMT: Compiler call returned
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c8331de
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 322 ColNo = 34 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Line should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63754b56
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 327 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@465d9b27
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 332 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c0e76c7
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 1 ColNo = 8 Msg = 'The import com.badlogic.gdx.ApplicationListener is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@42be4bc7
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 5 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Color is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bd8873d
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 8 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Texture.TextureFilter is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2176b1c2
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 9 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.TextureRegion is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5eb15365
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 10 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.Animation.PlayMode is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e61db07
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 15 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Stage is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21cf4899
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 16 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Action is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@352305c3
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 17 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.actions.Actions is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@615d4279
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 20 ColNo = 8 Msg = 'The import com.badlogic.gdx.utils.Array is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10404b6
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 22 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a540f8f
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 23 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77f4041b
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 24 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.BitmapFont is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cb1ce16
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 25 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Camera is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5db15482
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 26 ColNo = 8 Msg = 'The import com.badlogic.gdx.math.MathUtils is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27e300cc
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 48 ColNo = 21 Msg = 'The value of the field CheesePlease2.wallRectangle is not used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70e00cf7
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 61 ColNo = 19 Msg = 'The value of the field CheesePlease2.powerupCheck is not used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d3ad83
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 287 ColNo = 34 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Line should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5511fc1f
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 292 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6acb6311
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 297 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1abc4d0b
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 1 ColNo = 8 Msg = 'The import com.badlogic.gdx.ApplicationListener is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59c446a
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 5 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Color is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f37a1c2
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 8 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Texture.TextureFilter is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e5582de
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 9 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.TextureRegion is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16794e0a
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 10 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.Animation.PlayMode is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71a1f7bb
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 15 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Stage is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13fa61fc
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 16 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Action is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@517b422f
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 17 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.actions.Actions is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d2e5f14
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 20 ColNo = 8 Msg = 'The import com.badlogic.gdx.utils.Array is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73cc6d25
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 22 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33790721
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 23 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3898415b
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 24 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.BitmapFont is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47316fa3
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 25 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Camera is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57048725
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 26 ColNo = 8 Msg = 'The import com.badlogic.gdx.math.MathUtils is never used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c3fd2eb
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 48 ColNo = 21 Msg = 'The value of the field CheesePlease1.wallRectangle is not used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5657ccae
+28 Feb 2018 1:23:38 GMT:  Kind = WARNING
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 61 ColNo = 19 Msg = 'The value of the field CheesePlease1.powerupCheck is not used'
+28 Feb 2018 1:23:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ad7fdb0
+28 Feb 2018 1:23:38 GMT:  Kind = ERROR
+28 Feb 2018 1:23:38 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\Launcher1.java LineNo = 7 ColNo = 27 Msg = 'Type mismatch: cannot convert from CheesePlease2 to CheesePlease1'
+28 Feb 2018 1:23:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1b63f7d9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@26849bf7
+fileObjects = [C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java, C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java, C:\Users\007\Downloads\gameproject - Copy\Launcher1.java]
+28 Feb 2018 1:23:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1833e899' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, ;C:\Users\007\Downloads\gameproject - Copy;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-backend-lwjgl-natives.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-backend-lwjgl.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-natives.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx-sources.jar;C:\Users\007\Downloads\gameproject - Copy\+libs\gdx.jar;C:\Users\Usman\Downloads\drjava-beta-20160913-225446.exe]
+28 Feb 2018 1:23:46 GMT: Compiler call returned
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c1e190
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 322 ColNo = 34 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Line should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58f0350
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 327 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@479da03b
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 332 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0502bf
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 1 ColNo = 8 Msg = 'The import com.badlogic.gdx.ApplicationListener is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1456bf0e
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 5 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Color is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@693eab57
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 8 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Texture.TextureFilter is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43885233
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 9 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.TextureRegion is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@613aa007
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 10 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.Animation.PlayMode is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4035cde1
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 15 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Stage is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c4da2a3
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 16 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Action is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5dd56ad3
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 17 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.actions.Actions is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@695bc3f6
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 20 ColNo = 8 Msg = 'The import com.badlogic.gdx.utils.Array is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76f41f9
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 22 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3686b30d
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 23 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40f3c4fc
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 24 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.BitmapFont is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7780eb67
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 25 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Camera is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a1d1ce7
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 26 ColNo = 8 Msg = 'The import com.badlogic.gdx.math.MathUtils is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@900d872
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 48 ColNo = 21 Msg = 'The value of the field CheesePlease2.wallRectangle is not used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@578a298a
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease2.java LineNo = 61 ColNo = 19 Msg = 'The value of the field CheesePlease2.powerupCheck is not used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27a12bcf
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 287 ColNo = 34 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Line should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45b9e1f8
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 292 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a756275
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 297 ColNo = 20 Msg = 'The static field com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType.Filled should be accessed in a static way'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cb5d4c8
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 1 ColNo = 8 Msg = 'The import com.badlogic.gdx.ApplicationListener is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62e471c2
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 5 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Color is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68d8fa47
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 8 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Texture.TextureFilter is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@95f5be3
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 9 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.TextureRegion is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6baecd94
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 10 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.Animation.PlayMode is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a05cb42
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 15 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Stage is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a01687
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 16 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.Action is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7653d593
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 17 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.actions.Actions is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b8c74a0
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 20 ColNo = 8 Msg = 'The import com.badlogic.gdx.utils.Array is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f57fd48
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 22 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a46da0b
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 23 ColNo = 8 Msg = 'The import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@251759d
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 24 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.g2d.BitmapFont is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a702803
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 25 ColNo = 8 Msg = 'The import com.badlogic.gdx.graphics.Camera is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a9d29b8
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 26 ColNo = 8 Msg = 'The import com.badlogic.gdx.math.MathUtils is never used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d73662
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 48 ColNo = 21 Msg = 'The value of the field CheesePlease1.wallRectangle is not used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa346b8
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\CheesePlease1.java LineNo = 61 ColNo = 19 Msg = 'The value of the field CheesePlease1.powerupCheck is not used'
+28 Feb 2018 1:23:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@418477f
+28 Feb 2018 1:23:46 GMT:  Kind = WARNING
+28 Feb 2018 1:23:46 GMT: Name = C:\Users\007\Downloads\gameproject - Copy\Launcher1.java LineNo = 13 ColNo = 22 Msg = 'The value of the local variable launcher is not used'
